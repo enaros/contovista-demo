@@ -9545,10 +9545,16 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-align: center;
 }
 
+.clients .box {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+
 .partners .box {
-  height: 150px;
+  padding: 0;
+  height: 200px;
   vertical-align: middle;
-  line-height: 75px;
+  line-height: 200px;
 }
 
 .clients-say {
