@@ -9067,22 +9067,16 @@ h3 {
 #hero .btn-get-started {
   font-family: "Fira Sans", sans-serif;
   text-transform: uppercase;
-  font-weight: 500;
-  font-size: 16px;
+  font-weight: 400;
+  font-size: 18px;
   letter-spacing: 1px;
   display: inline-block;
-  padding: 8px 28px;
-  border-radius: 50px;
+  padding: 12px 28px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
   margin-top: 45px;
-  border: 2px solid #fff;
-  color: #fff;
-}
-
-#hero .btn-get-started:hover {
-  background: #2dc997;
-  border: 2px solid #2dc997;
+  background: rgba(255, 255, 255, 0.9);
+  color: #7f96af;
 }
 
 /*--------------------------------------------------------------
